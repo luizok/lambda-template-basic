@@ -1,0 +1,4 @@
+.terraform*
+config.aws.tfbackend
+output/*
+!output/.gitkeep
